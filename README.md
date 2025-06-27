@@ -1,3 +1,4 @@
+# 📚 Auth API 
 A full-featured authentication backend built with **Express**, **TypeScript**, and **Prisma ORM**, supporting **JWT-based login**, **role-based access control**, and **MySQL** database.
 
 ---
